@@ -1,7 +1,3 @@
-Sure! Here’s a concise and engaging bio for your GitHub profile:
-
----
-
 **👋 Hi there! I’m sambatech77, a student diving deep into the world of cybersecurity and programming.** 
 
 🌐 **Exploring Cybersecurity:** Passionate about understanding and combating digital threats. Always learning and applying new strategies to secure systems and networks.
